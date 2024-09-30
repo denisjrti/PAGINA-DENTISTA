@@ -1,0 +1,19 @@
+PASSOS PARA EXECUTAR ESTE PROJETO
+
+1º Extraia esta pasta no seu computador.
+
+2º Abra esta pasta no terminal (depois de ter extraído ela).
+
+3º Execute o comando abaixo 
+
+npm install
+npm run build
+
+Este comando vai criar a aplicação e instalar tudo que é necessário para executar este projeto.
+
+4º Execute o comando abaixo para iniciar a aplicação
+
+npm run dev ou npm start
+
+
+A aplicação vai abrir no seu navegador.
